@@ -31,7 +31,7 @@
         android:id="@+id/btnRefrescar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Salvar"
+        android:text="Cargar"
         android:backgroundTint="#FFEB3B"
         android:textColor="#000000"
         android:textStyle="bold"
